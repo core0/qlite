@@ -1,0 +1,14 @@
+D:\coding\csharp\qlite\qlite\bin\Release\qlite.exe
+D:\coding\csharp\qlite\qlite\bin\Release\qlite.pdb
+D:\coding\csharp\qlite\qlite\bin\Release\System.Data.SQLite.xml
+D:\coding\csharp\qlite\qlite\obj\Release\ResolveAssemblyReference.cache
+D:\coding\csharp\qlite\qlite\obj\Release\qlite.Properties.Resources.resources
+D:\coding\csharp\qlite\qlite\obj\Release\qlite.exe
+D:\coding\csharp\qlite\qlite\obj\Release\qlite.pdb
+D:\coding\csharp\qlite\qlite\obj\Release\qlite.AddTable.resources
+D:\coding\csharp\qlite\qlite\obj\Release\qlite.AllQuery.resources
+D:\coding\csharp\qlite\qlite\obj\Release\qlite.EditContent.resources
+D:\coding\csharp\qlite\qlite\obj\Release\qlite.MainForm.resources
+D:\coding\csharp\qlite\qlite\obj\Release\qlite.NewQuery.resources
+D:\coding\csharp\qlite\qlite\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\coding\csharp\qlite\qlite\obj\Release\GenerateResource-ResGen.write.1.tlog
