@@ -1,0 +1,12 @@
+D:\git\qlite\qlite\bin\x86\Debug\qlite.exe.config
+D:\git\qlite\qlite\bin\x86\Debug\qlite.exe
+D:\git\qlite\qlite\bin\x86\Debug\qlite.pdb
+D:\git\qlite\qlite\obj\x86\Debug\qlite.AddTable.resources
+D:\git\qlite\qlite\obj\x86\Debug\qlite.AllQuery.resources
+D:\git\qlite\qlite\obj\x86\Debug\qlite.EditContent.resources
+D:\git\qlite\qlite\obj\x86\Debug\qlite.MainForm.resources
+D:\git\qlite\qlite\obj\x86\Debug\qlite.NewQuery.resources
+D:\git\qlite\qlite\obj\x86\Debug\qlite.Properties.Resources.resources
+D:\git\qlite\qlite\obj\x86\Debug\qlite.csproj.GenerateResource.Cache
+D:\git\qlite\qlite\obj\x86\Debug\qlite.exe
+D:\git\qlite\qlite\obj\x86\Debug\qlite.pdb

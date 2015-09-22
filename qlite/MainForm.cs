@@ -440,8 +440,8 @@ namespace qlite
 
             if (path_to_db != String.Empty)
             {
-                q_conn = new SQLiteConnection();
-                q_conn.ConnectionString = "Data source =" + path_to_db + ";New = true;";
+
+                q_conn = new SQLiteConnection("Data source =" + path_to_db + ";New = true;");
                 DBisOpen();
                 addtable = new AddTable();
                 addtable.Show();

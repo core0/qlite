@@ -12,3 +12,16 @@ D:\coding\csharp\qlite\qlite\obj\Release\qlite.MainForm.resources
 D:\coding\csharp\qlite\qlite\obj\Release\qlite.NewQuery.resources
 D:\coding\csharp\qlite\qlite\obj\Release\GenerateResource-ResGen.read.1.tlog
 D:\coding\csharp\qlite\qlite\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\git\qlite\qlite\obj\Release\qlite.exe
+D:\git\qlite\qlite\obj\Release\qlite.pdb
+D:\git\qlite\qlite\bin\Release\qlite.exe
+D:\git\qlite\qlite\bin\Release\qlite.pdb
+D:\git\qlite\qlite\bin\Release\System.Data.SQLite.xml
+D:\git\qlite\qlite\obj\Release\qlite.csprojResolveAssemblyReference.cache
+D:\git\qlite\qlite\obj\Release\qlite.AddTable.resources
+D:\git\qlite\qlite\obj\Release\qlite.AllQuery.resources
+D:\git\qlite\qlite\obj\Release\qlite.EditContent.resources
+D:\git\qlite\qlite\obj\Release\qlite.MainForm.resources
+D:\git\qlite\qlite\obj\Release\qlite.NewQuery.resources
+D:\git\qlite\qlite\obj\Release\qlite.Properties.Resources.resources
+D:\git\qlite\qlite\obj\Release\qlite.csproj.GenerateResource.Cache
